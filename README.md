@@ -1,2 +1,6 @@
-# googleplayrank
-google play game ranking in korea
+# Google Play Rank
+Google play game ranking in Korea
+
+topselling_free
+
+topgrossing
